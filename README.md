@@ -1,1 +1,1 @@
-Again here we run a simple hello world program with the simple sentiment analysis python code having translate it first to binary code.
+it's a simple hello world program in swift programming language.
